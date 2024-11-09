@@ -66,6 +66,7 @@ function SignupForm() {
     })
     setAccountType(ACCOUNT_TYPE.STUDENT)
   }
+  
 
   // data to pass to Tab component
   const tabData = [
